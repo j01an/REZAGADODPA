@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602005548190",
+    "project_id": "finaldpa-51ec8",
+    "storage_bucket": "finaldpa-51ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602005548190:android:ec8b8f66f2a52caed99f8f",
+        "android_client_info": {
+          "package_name": "com.example.flores20100651ef2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgyxLx-S5t_d9mrV1kfxo1oFfNttajWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602005548190:android:964b48d430f04774d99f8f",
+        "android_client_info": {
+          "package_name": "dev.floresrogger.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgyxLx-S5t_d9mrV1kfxo1oFfNttajWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
