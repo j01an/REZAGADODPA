@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Flores20100651EF2023"
         tools:targetApi="34">
         <activity
+            android:name=".RegistroActivity"
+            android:exported="false" />
+        <activity
             android:name=".productoActivity"
             android:exported="false" />
         <activity
